@@ -11,3 +11,4 @@ Tomás Fiorelli Barbosa- 42122791
 - [ ] Filtrar banco de dados de palavras
 - [ ] Programar algo de fato
   -  [ ] Incluindo o filtro
+- [ ] Escrever o TO-DO
