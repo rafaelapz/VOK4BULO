@@ -6,5 +6,7 @@ Lucas Kenzo Kawamoto- 42145651\
 Rafaela Perrotti Zyngier- 42112125\
 Tomás Fiorelli Barbosa- 42122791\
   
-  eu estou vivendo em profundo desespero\
+  > eu estou vivendo em profundo desespero\
                 - gabrielmaruqes
+
+![rodrigo faro]()
