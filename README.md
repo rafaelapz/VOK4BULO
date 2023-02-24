@@ -1,5 +1,5 @@
 # vocabulo
-<b>Integrante<\b>
+<b>Integrante<b>
 Bruno Castro Tomaz- 32150989
 Gabriel de França Marques- 42107490
 Lucas Kenzo Kawamoto- 42145651
