@@ -1,6 +1,6 @@
-# (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Jogo Vok4bulo - Edição Super Kawaii! ✧ﾟ･: *ヽ(◕ヮ◕ヽ)
+## (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Jogo Vok4bulo - Edição Super Kawaii! ✧ﾟ･: *ヽ(◕ヮ◕ヽ)
 
-## Descrição do Jogo:
+### Descrição do Jogo:
 
 Desenvolvemos um jogo de palavras fofo e divertido! A cada nível, a palavra fica maior, como uma evolução kawaii! ٩(◕‿◕｡)۶ \
 O "VOK4BULO" vai tornar seus momentos tediosos em pura fofura, seja no ônibus, metrô ou carro! (｡♥‿♥｡) \
